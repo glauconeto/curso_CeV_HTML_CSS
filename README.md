@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Bem vindo ao meu repositório.
 
-You can use the [editor on GitHub](https://github.com/glauconeto/curso_CeV_HTML_CSS/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Desafio 09
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Acesse aqui](https://glauconeto.github.io/curso_CeV_HTML_CSS/d09)
 
-### Markdown
+## Meus Exercícios
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/glauconeto/curso_CeV_HTML_CSS/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. [Exercício 01](https://glauconeto.github.io/curso_CeV_HTML_CSS/exercicios/ex01)
+2. [Exercício 02](https://glauconeto.github.io/curso_CeV_HTML_CSS/exercicios/ex02)
+3. [Exercício 03](https://glauconeto.github.io/curso_CeV_HTML_CSS/exercicios/ex03)
+4. [Exercício 04](https://glauconeto.github.io/curso_CeV_HTML_CSS/exercicios/ex04)
+5. [Exercício 05](https://glauconeto.github.io/curso_CeV_HTML_CSS/exercicios/ex05)
+6. [Exercício 06](https://glauconeto.github.io/curso_CeV_HTML_CSS/exercicios/ex06)
+7. [Exercício 07](https://glauconeto.github.io/curso_CeV_HTML_CSS/exercicios/ex07)
+8. [Exercício 08](https://glauconeto.github.io/curso_CeV_HTML_CSS/exercicios/ex08)
+9. [Exercício 08b](https://glauconeto.github.io/curso_CeV_HTML_CSS/exercicios/ex08b)
+10. [Exercício 09](https://glauconeto.github.io/curso_CeV_HTML_CSS/exercicios/ex09)
+11. [Exercício 10](https://glauconeto.github.io/curso_CeV_HTML_CSS/exercicios/ex10)
+12. [Exercício 11](https://glauconeto.github.io/curso_CeV_HTML_CSS/exercicios/ex11)
+13. [Exercício 12](https://glauconeto.github.io/curso_CeV_HTML_CSS/exercicios/ex12)
+14. [Exercício 13](https://glauconeto.github.io/curso_CeV_HTML_CSS/exercicios/ex13)
+15. [Exercício 14](https://glauconeto.github.io/curso_CeV_HTML_CSS/exercicios/ex14)
+16. [Exercício 15](https://glauconeto.github.io/curso_CeV_HTML_CSS/exercicios/ex15)
+17. [Exercício 16](https://glauconeto.github.io/curso_CeV_HTML_CSS/exercicios/ex16)
+18. [Exercício 17](https://glauconeto.github.io/curso_CeV_HTML_CSS/exercicios/ex17)
+19. [Exercício 18](https://glauconeto.github.io/curso_CeV_HTML_CSS/exercicios/ex18)
+20. [Exercício 19](https://glauconeto.github.io/curso_CeV_HTML_CSS/exercicios/ex19)
+21. [Exercício 20](https://glauconeto.github.io/curso_CeV_HTML_CSS/exercicios/ex20)
+22. [Exercício 21](https://glauconeto.github.io/curso_CeV_HTML_CSS/exercicios/ex21)

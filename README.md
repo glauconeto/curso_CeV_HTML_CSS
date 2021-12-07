@@ -2,7 +2,7 @@
 
 ## Desafios
 
-9. [Desafio 09](https://glauconeto.github.io/curso_CeV_HTML_CSS/d09)
+9. [Desafio 09](https://glauconeto.github.io/curso_CeV_HTML_CSS/d09)<br>
 12. [Desafio 12](https://glauconeto.github.io/curso_CeV_HTML_CSS/d12)
 
 ## Meus Exercícios

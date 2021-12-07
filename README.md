@@ -1,8 +1,9 @@
 # Bem vindo ao meu repositório.
 
-## Desafio 09
+## Desafios
 
-[Acesse aqui](https://glauconeto.github.io/curso_CeV_HTML_CSS/d09)
+[Desafio 09](https://glauconeto.github.io/curso_CeV_HTML_CSS/d09)
+[Desafio 12](https://glauconeto.github.io/curso_CeV_HTML_CSS/d12)
 
 ## Meus Exercícios
 

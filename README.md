@@ -29,3 +29,4 @@
 20. [Exercício 19](https://glauconeto.github.io/curso_CeV_HTML_CSS/exercicios/ex19)
 21. [Exercício 20](https://glauconeto.github.io/curso_CeV_HTML_CSS/exercicios/ex20)
 22. [Exercício 21](https://glauconeto.github.io/curso_CeV_HTML_CSS/exercicios/ex21)
+23. [Exercício 23](https://glauconeto.github.io/curso_CeV_HTML_CSS/exercicios/ex23)

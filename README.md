@@ -4,6 +4,7 @@
 
 9. [Desafio 09](https://glauconeto.github.io/curso_CeV_HTML_CSS/d09)<br>
 12. [Desafio 12](https://glauconeto.github.io/curso_CeV_HTML_CSS/d12)
+13. [Desafio 13](https://glauconeto.github.io/curso_CeV_HTML_CSS/d13)
 
 ## Meus Exercícios
 
@@ -30,3 +31,4 @@
 21. [Exercício 20](https://glauconeto.github.io/curso_CeV_HTML_CSS/exercicios/ex20)
 22. [Exercício 21](https://glauconeto.github.io/curso_CeV_HTML_CSS/exercicios/ex21)
 23. [Exercício 23](https://glauconeto.github.io/curso_CeV_HTML_CSS/exercicios/ex23)
+23. [Exercício 24](https://glauconeto.github.io/curso_CeV_HTML_CSS/exercicios/ex24)
